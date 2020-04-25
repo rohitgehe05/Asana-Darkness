@@ -56,7 +56,7 @@ html {
 
 .TaskGroupHeader-content:hover .TaskGroupHeader-arrow.triangleIcon,
 .borderless-button:hover {
-    fill: #009688
+    fill: #0676B9
 }
 
 #asana_main>div.full-width-header.full-width-header--compact.full-width-header-sideElements--medium,
@@ -83,7 +83,7 @@ html {
 }
 
 .TypeaheadItem-title {
-    color: #009688
+    color: #0676B9
 }
 
 .TypeaheadItemStructure--enabled {
@@ -102,7 +102,7 @@ html {
 
 .TypeaheadCreateItem.TypeaheadCreateItem--highlighted,
 .TypeaheadItemStructure--enabled.TypeaheadItemStructure--highlighted {
-    background: #009688;
+    background: #0676B9;
     color: #fefefe;
     fill: #fefefe
 }
@@ -234,7 +234,7 @@ html {
 
 .CircularButton.CircularButton--enabled:hover,
 .HeartButton-button--withThumbsUp .CircularToggleButton-pulse {
-    background-color: #009688;
+    background-color: #0676B9;
     border-color: #fefefe;
     box-shadow: none;
     color: #fefefe;
@@ -245,8 +245,8 @@ html {
 .HeartButton-button--isHearted~.HeartButton-heartCount,
 .MiniHeartButton.MiniHeartButton--hearted,
 .InboxReferencedTaskItem-detailsButton:hover {
-    fill: #009688;
-    color: #009688
+    fill: #0676B9;
+    color: #0676B9
 }
 
 .HeartButton-heartCount {
@@ -306,7 +306,7 @@ html {
 .blockStoryView-actorLink,
 .hiddenLink,
 .taskCompletedStoryView .blockStoryView-actorLink {
-    color: #009688 !important;
+    color: #0676B9 !important;
     font-weight: 700
 }
 
@@ -320,11 +320,11 @@ html {
 }
 
 .StoryActorName-actorLink:hover {
-    color: #009688;
+    color: #0676B9;
 }
 
 .notificationView-iconAvatar.is-assignedToYou {
-    background: #009688
+    background: #0676B9
 }
 
 #asana_main>div.full-width-header.full-width-header--compact.full-width-header-sideElements--medium,
@@ -356,12 +356,12 @@ html {
 
 .inboxThreadView-archiveButton,
 .inboxThreadView-unarchiveButton {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .inboxThreadView-unarchiveButton:hover {
-    background: #009688;
+    background: #0676B9;
     color: #e2e2e2;
     fill: #e2e2e2
 }
@@ -373,7 +373,7 @@ html {
 }
 
 .referenced-task-row-view:hover {
-    background: #009688
+    background: #0676B9
 }
 
 .team-page-projects {
@@ -389,7 +389,7 @@ html {
 .message-composer-form .composer-input-wrap.expanded .menu-bar,
 .team-feed-conversation .conversation-reply-message,
 .teamFeedView-emptyStateCard {
-    background: #009688
+    background: #0676B9
 }
 
 .message-view .comment-text,
@@ -400,7 +400,7 @@ html {
 }
 
 .MessageBanner--default {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #e2e2e2
 }
 
@@ -475,14 +475,14 @@ html {
 }
 
 .menuItem-button:hover {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #e2e2e2;
     fill: #e2e2e2;
     text-decoration: none
 }
 
 .TaskProjectSectionInfo-noSectionDropdown.is-dropdownVisible>.TaskProjectSectionInfo-dropdownArrow {
-    fill: #009688
+    fill: #0676B9
 }
 
 .DatePickerCalendar-nextMonthIcon,
@@ -559,7 +559,7 @@ html {
 }
 
 .FeedMiniStory-xIcon:hover {
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .asset-thumbnail .asset-thumbnail-image:hover {
@@ -670,7 +670,7 @@ a.NavigationLink.topbar-notificationsButton {
 }
 
 .cal-row.cal-row-week .cal-col-today:not(.cal-col-project-due) .date .calendar-today-star-icon {
-    fill: #009688
+    fill: #0676B9
 }
 
 .cal-row.cal-row-week .cal-col-month:not(.cal-col-project-due) .cal-col-inner {
@@ -693,7 +693,7 @@ div.dropdown-anchor.omnibutton>a>svg>polygon {
 .redesign-due-date-container .property.value-set,
 a.NavigationLink.topbar-myTasksButton.is-selected,
 a.NavigationLink.topbar-notificationsButton.is-selected {
-    color: #009688
+    color: #0676B9
 }
 
 .checkbox-text,
@@ -711,9 +711,9 @@ a.NavigationLink.topbar-notificationsButton.is-selected {
 
 .FormElementButton.FormElementButton--standard:not(.FormElementButton--disabled):focus,
 .FormElementButton.FormElementButton--standard:not(.FormElementButton--disabled):hover {
-    border-color: #009688;
-    box-shadow: 0 0 0 0px #009688;
-    color: #009688
+    border-color: #0676B9;
+    box-shadow: 0 0 0 0px #0676B9;
+    color: #0676B9
 }
 
 .ButtonGroupButton--active:focus {
@@ -733,7 +733,7 @@ a.NavigationLink.topbar-notificationsButton.is-selected {
 .grid-uncompact #grid .grid-row-selected.focused>td,
 .menuItem-button.is-highlighted,
 .menuItem-button:hover {
-    background: #009688
+    background: #0676B9
 }
 
 .priority.task-row.no-group.grid-row-selected,
@@ -746,7 +746,7 @@ a.NavigationLink.topbar-notificationsButton.is-selected {
 .grid-compact #grid .task-row div.circularToggleButtonView.circularToggleButtonView--toggledOn.taskCheckboxNodeView>div,
 .grid-row-selected:not(.focused) .taskCheckboxNodeView.circularToggleButtonView--toggledOn .circularToggleButtonView-button,
 .taskCheckboxNodeView.circularToggleButtonView--toggledOn .circularToggleButtonView-button {
-    background: #009688
+    background: #0676B9
 }
 
 .detailsTitle-checkmarkButton.circularToggleButtonView--toggledOn .circularToggleButtonView-button:hover,
@@ -760,7 +760,7 @@ a.NavigationLink.topbar-notificationsButton.is-selected {
 .taskCheckboxNodeView.circularToggleButtonView--toggledOn .circularToggleButtonView-button,
 .taskCompletedStoryView-avatar,
 .taskInboxThreadView-icon.is-completed {
-    border-color: #009688
+    border-color: #0676B9
 }
 
 .menu-submenu-expand-arrow,
@@ -838,7 +838,7 @@ div.property.followers_du.details-followers.detailsFollowers-withFacepileLabel {
 
 .navigationDockItemView.selected:not(:hover),
 .react-mount-node .itemRow.itemRow--focused {
-    background: #009688
+    background: #0676B9
 }
 
 .details-pane-project-overview .project-overview-section:last-child,
@@ -886,8 +886,8 @@ div.property.followers_du.details-followers.detailsFollowers-withFacepileLabel {
 }
 
 .switch-view .switch.checked {
-    background-color: #009688;
-    border-color: #009688
+    background-color: #0676B9;
+    border-color: #0676B9
 }
 
 .TopbarSearchTypeahead-advancedItem {
@@ -902,7 +902,7 @@ div.property.followers_du.details-followers.detailsFollowers-withFacepileLabel {
 .Omnibutton,
 .TopbarPlaceholder-omnibutton,
 .omnibutton {
-    background: #009688 !important;
+    background: #0676B9 !important;
     -webkit-transition: .1s transform;
     transition: .1s transform
 }
@@ -918,9 +918,9 @@ div.property.followers_du.details-followers.detailsFollowers-withFacepileLabel {
 .taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleButtonView-button {
     color: #e2e2e2;
     fill: #e2e2e2;
-    background: #009688;
-    box-shadow: 0 0 0 3px #009688;
-    border-color: #009688
+    background: #0676B9;
+    box-shadow: 0 0 0 3px #0676B9;
+    border-color: #0676B9
 }
 
 .TaskRowCompletionStatus-checkbox {
@@ -991,11 +991,11 @@ div.property.followers_du.details-followers.detailsFollowers-withFacepileLabel {
 }
 
 .is-hoveringAbove {
-    border-top: 2px dotted #009688
+    border-top: 2px dotted #0676B9
 }
 
 .is-hoveringBelow {
-    border-bottom: 2px dotted #009688
+    border-bottom: 2px dotted #0676B9
 }
 
 .react-mount-node .BlockStory-metadata,
@@ -1025,18 +1025,18 @@ tr .search_ordered .task-row .no-group .gridrow-selected .focused .completed {
 .grid-uncompact #grid .grid_pseudorow_no_prioritized:hover>td,
 .grid-uncompact #grid .task-row:hover .grid_cell_show_details,
 .grid-uncompact #grid .task-row:hover>td {
-    border-bottom: 1px solid #009688;
-    border-top: 1px solid #009688
+    border-bottom: 1px solid #0676B9;
+    border-top: 1px solid #0676B9
 }
 
 .grid-uncompact #grid .bar-row:hover .grid_cell_drag_handle,
 .grid-uncompact #grid .task-row:hover .grid_cell_drag_handle {
-    border-left: 1px solid #009688
+    border-left: 1px solid #0676B9
 }
 
 .grid-uncompact #grid .bar-row:hover .grid_cell_show_details,
 .grid-uncompact #grid .task-row:hover .grid_cell_show_details {
-    border-right: 1px solid #009688
+    border-right: 1px solid #0676B9
 }
 
 #right_pane_view_caret::before {
@@ -1048,7 +1048,7 @@ tr .search_ordered .task-row .no-group .gridrow-selected .focused .completed {
 .inboxThreadView-archiveButton:hover,
 .message-composer-big .composer-input-wrap .conversation-composer,
 .message-composer-form:not(.expanded).always-show-post-button .composer-placeholder {
-    background: #009688
+    background: #0676B9
 }
 
 right_pane {
@@ -1074,9 +1074,9 @@ right_pane {
 
 .tab-nav-div .tab-nav-bar .tab-nav-button:not(.disabled).is-selected,
 .tab-nav-div .tab-nav-bar .tab-nav-button:not(.disabled):hover {
-    box-shadow: inset 0 -3px #009688;
-    -moz-box-shadow: inset 0 -3px #009688;
-    -webkit-box-shadow: inset 0 -3px #009688
+    box-shadow: inset 0 -3px #0676B9;
+    -moz-box-shadow: inset 0 -3px #0676B9;
+    -webkit-box-shadow: inset 0 -3px #0676B9
 }
 
 .react-mount-node .newProjectForm {
@@ -1108,7 +1108,7 @@ right_pane {
 .referenced-task-row-view.recently-changed .gridCell-singleRowContainer,
 .referenced-task-row-view.recently-changed.referencedTaskRowView,
 .referenced-task-row-view.taskRowView--recentlyCompleted.completed.taskRow--willCollapse {
-    background-image: linear-gradient(to right, #009688, #009688 33%, #009688 83%, #e2e2e2)
+    background-image: linear-gradient(to right, #0676B9, #0676B9 33%, #0676B9 83%, #e2e2e2)
 }
 
 @-webkit-keyframes background-to-green-completion {
@@ -1118,7 +1118,7 @@ right_pane {
 
     100%,
     33% {
-        background-color: #009688
+        background-color: #0676B9
     }
 }
 
@@ -1129,7 +1129,7 @@ right_pane {
 
     100%,
     33% {
-        background-color: #009688
+        background-color: #0676B9
     }
 }
 
@@ -1140,13 +1140,13 @@ right_pane {
 
     100%,
     33% {
-        background-color: #009688
+        background-color: #0676B9
     }
 }
 
 .react-mount-node .menuSubmenuItem.is-highlighted,
 .task-description-changed-story .diff-delete {
-    background: #009688
+    background: #0676B9
 }
 
 .react-mount-node .taskName-autogrowTextarea .autogrowTextarea-input {
@@ -1158,9 +1158,9 @@ right_pane {
 }
 
 .react-mount-node .itemRow.itemRow--highlighted {
-    background: #009688;
-    border-bottom: 1px solid #009688;
-    box-shadow: 0 -1px #009688
+    background: #0676B9;
+    border-bottom: 1px solid #0676B9;
+    box-shadow: 0 -1px #0676B9
 }
 
 .react-mount-node .itemRow.itemRow--focused,
@@ -1171,7 +1171,7 @@ right_pane {
 .react-mount-node .itemRow:hover,
 .react-mount-node .itemRow:hover:not(.itemRow--disabled) {
     box-shadow: none;
-    border-color: #009688
+    border-color: #0676B9
 }
 
 .list-section-items .item-label {
@@ -1182,8 +1182,8 @@ right_pane {
 .taskRowCompletionStatus-checkIcon .react-mount-node svg:not(:root) polygon {
     color: #e2e2e2;
     fill: #e2e2e2;
-    background: #009688;
-    border-color: #009688
+    background: #0676B9;
+    border-color: #0676B9
 }
 
 .react-mount-node .BlockStory-storyContent .icon,
@@ -1197,8 +1197,8 @@ right_pane {
 .react-mount-node .TaskCompletedBlockStory .BlockStory-actorLink,
 .react-mount-node .dropdownMenuOption-checkIcon,
 .ConsoleMetricWidget-metricNumber {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .FavoriteStar-favorited {
@@ -1210,7 +1210,7 @@ right_pane {
 }
 
 .IconButton.IconButton--enabled:hover {
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .SpreadsheetPageStructure-fullWidth {
@@ -1232,7 +1232,7 @@ right_pane {
 }
 
 .SpreadsheetCell--withShadedBackground .SpreadsheetAssigneeInputCell-removeButton {
-    background-color: #009688;
+    background-color: #0676B9;
     fill: #fefefe;
     color: #fefefe
 }
@@ -1269,7 +1269,7 @@ right_pane {
 }
 
 .Dialog-headerTitle {
-    color: #009688
+    color: #0676B9
 }
 
 .AddAttachmentsMenuItem,
@@ -1311,14 +1311,14 @@ right_pane {
 .react-mount-node .TaskCompletedBlockStory-icon,
 .react-mount-node .taskRowCompletionStatus-checkbox.taskRowCompletionStatus-checkbox--complete.taskRowCompletionStatus--taskRowSelected,
 .taskIconWidget--complete {
-    border-color: #009688;
-    background: #009688
+    border-color: #0676B9;
+    background: #0676B9
 }
 
 .circularToggleButtonView.circularToggleButtonView--toggledOn.circularToggleButtonView--recentlyToggled.taskCheckboxNodeView>div,
 .taskCompletedStoryView-avatar,
 .taskInboxThreadView-icon.is-completed {
-    background: #009688
+    background: #0676B9
 }
 
 .detailsPaneProjectTokenizerView-token.detailsPaneProjectTokenizerView-token-multihome:hover,
@@ -1345,7 +1345,7 @@ right_pane {
 }
 
 .react-mount-node .DatePickerCalendar-dayButton:hover {
-    background: #009688;
+    background: #0676B9;
     color: #e2e2e2
 }
 
@@ -1404,19 +1404,19 @@ right_pane {
     background-color: #303030;
     border: 1px solid transparent;
     color: #fefefe !important;
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .TokenButton--interactive:hover>.TokenButton-icon,
 .TokenButton--interactive:focus>.TokenButton-icon {
-    background-color: #009688;
-    border-color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
     color: #fefefe;
     fill: #fefefe;
 }
 
 .TokenButton--interactive:hover>.TokenButton-icon {
-    background-color: #009688;
+    background-color: #0676B9;
     border: 1px solid #424242;
     fill: #fefefe
 }
@@ -1442,8 +1442,8 @@ right_pane {
 }
 
 .NativeFloatingSelect {
-    border-color: #009688;
-    color: #009688
+    border-color: #0676B9;
+    color: #0676B9
 }
 
 .TaskAttachments-uploadProgress {
@@ -1502,10 +1502,10 @@ right_pane {
 }
 
 .referenced-task-row-view:hover .referencedTaskRowView-checkButton:hover.circularToggleButtonView--toggledOff .circularToggleButtonView-button {
-    border-color: #009688;
-    background: #009688;
-    -webkit-box-shadow: 0 0 0 3px #009688;
-    box-shadow: 0 0 0 3px #009688;
+    border-color: #0676B9;
+    background: #0676B9;
+    -webkit-box-shadow: 0 0 0 3px #0676B9;
+    box-shadow: 0 0 0 3px #0676B9;
     color: #e2e2e2;
     fill: #e2e2e2
 }
@@ -1528,7 +1528,7 @@ right_pane {
 }
 
 .react-mount-node .CustomPropertyProtoTypeahead-dropdown.CustomPropertyProtoTypeahead-dropdown--withCreateButton {
-    background: #009688
+    background: #0676B9
 }
 
 .react-mount-node .BoardAddCardButton.Button--primary:active:not(.Button--disabled),
@@ -1555,11 +1555,11 @@ right_pane {
 }
 
 .react-mount-node .SidebarItemRow:hover {
-    background: #009688;
-    border-color: #009688;
-    box-shadow: inset 1px 0 0 1px #009688;
-    -moz-box-shadow: inset 1px 0 0 1px #009688;
-    -webkit-box-shadow: inset 1px 0 0 1px #009688
+    background: #0676B9;
+    border-color: #0676B9;
+    box-shadow: inset 1px 0 0 1px #0676B9;
+    -moz-box-shadow: inset 1px 0 0 1px #0676B9;
+    -webkit-box-shadow: inset 1px 0 0 1px #0676B9
 }
 
 .DatePickerCalendarDate--adjacentMonth,
@@ -1604,9 +1604,9 @@ right_pane {
 
 .FloatingSelect:focus,
 .FloatingSelect:hover {
-    border-bottom: 1px solid #009688;
-    color: #009688;
-    fill: #009688;
+    border-bottom: 1px solid #0676B9;
+    color: #0676B9;
+    fill: #0676B9;
     text-decoration: none
 }
 
@@ -1618,10 +1618,10 @@ right_pane {
 
 .Button.Button--secondary:not(.Button--disabled):focus,
 .Button.Button--secondary:not(.Button--disabled):hover {
-    border-color: #009688;
+    border-color: #0676B9;
     box-shadow: none;
     color: #e2e2e2;
-    background-color: #009688 !important;
+    background-color: #0676B9 !important;
     fill: #e2e2e2
 }
 
@@ -1633,17 +1633,17 @@ right_pane {
 .FormElementButton.FormElementButton--dynamic:not(.FormElementButton--disabled).FormElementButton--active,
 .FormElementButton.FormElementButton--dynamic:not(.FormElementButton--disabled):active {
     background: #424242;
-    border: 1px solid #009688;
+    border: 1px solid #0676B9;
     box-shadow: inset 0 1px rgba(0, 0, 0, .1);
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .ButtonSelect-item:not(.menuItem--disabled).is-highlighted,
 .ButtonSelect-item:not(.menuItem--disabled):hover {
-    background: #009688;
+    background: #0676B9;
     color: #e2e2e2;
-    fill: #009688;
+    fill: #0676B9;
     text-decoration: none
 }
 
@@ -1727,20 +1727,20 @@ right_pane {
 }
 
 .Button.Button--primary:not(.Button--disabled) {
-    background: #009688;
-    border-color: #009688;
+    background: #0676B9;
+    border-color: #0676B9;
     color: #e2e2e2;
     fill: #e2e2e2
 }
 
 .TaskFollowers-toggleButtonIcon,
 .dragHandle:hover {
-    fill: #009688
+    fill: #0676B9
 }
 
 .ToggleFollowButton-toggleButtonIcon {
-    color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    fill: #0676B9;
 }
 
 .ToggleFollowButton-toggleText {
@@ -1751,16 +1751,16 @@ right_pane {
 
 .ToggleFollowButton-toggleText:hover,
 .ToggleFollowButton-toggleText:focus {
-    color: #009688;
-    border-color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    border-color: #0676B9;
+    fill: #0676B9;
     text-decoration: none;
 }
 
 .TaskFollowers-toggleText {
-    border-bottom: 1px dotted #009688;
-    color: #009688;
-    fill: #009688
+    border-bottom: 1px dotted #0676B9;
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .Card,
@@ -1777,7 +1777,7 @@ right_pane {
 }
 
 .TypeaheadItem.TypeaheadItem--highlighted {
-    background: #009688
+    background: #0676B9
 }
 
 .TypeaheadItem-title {
@@ -1785,7 +1785,7 @@ right_pane {
 }
 
 .Tab.Tab--isSelected {
-    box-shadow: inset 0 -3px #009688
+    box-shadow: inset 0 -3px #0676B9
 }
 
 body {
@@ -1961,13 +1961,13 @@ body {
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect:hover,
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect:focus,
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect.is-dropdownVisible {
-    color: #009688
+    color: #0676B9
 }
 
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect:hover .FloatingSelect-icon,
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect:focus .FloatingSelect-icon,
 .TaskProjectColumnInfo-dropdown--spreadsheet.FloatingSelect.is-dropdownVisible .FloatingSelect-icon {
-    fill: #009688
+    fill: #0676B9
 }
 
 .Pill.Pill--colorNone {
@@ -2081,7 +2081,7 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 
 .MiniStory a {
     font-weight: 700;
-    color: #009688
+    color: #0676B9
 }
 
 .BlockStory-actorLink:link,
@@ -2091,7 +2091,7 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 }
 
 .BlockStory-actorLink:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .react-mount-node .BlockStory-metadata {
@@ -2126,8 +2126,8 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 
 .MiniHeartButton--withThumbsUp:hover,
 .miniHeartButtonView--withThumbsUp.is-hearted {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .MiniHeartButton.MiniHeartButton--hearted {
@@ -2141,16 +2141,16 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 
 .HeartButton-button--withThumbsUp.CircularToggleButton--toggledOff .CircularButton--enabled:focus,
 .HeartButton-button--withThumbsUp.CircularToggleButton--toggledOff .CircularButton--enabled:hover {
-    box-shadow: 0 0 0 3px #009688;
-    color: #009688;
+    box-shadow: 0 0 0 3px #0676B9;
+    color: #0676B9;
     fill: #fefefe;
-    border-color: #009688
+    border-color: #0676B9
 }
 
 .CircularButton.CircularButton--enabled:active {
-    background-color: #009688;
-    border: 1px solid #009688;
-    box-shadow: inset 0 1px #009688;
+    background-color: #0676B9;
+    border: 1px solid #0676B9;
+    box-shadow: inset 0 1px #0676B9;
     fill: #e2e2e2
 }
 
@@ -2162,17 +2162,17 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 }
 
 .CircularButton.CircularButton--enabled:hover {
-    background-color: #009688 !important;
-    border-color: #009688;
+    background-color: #0676B9 !important;
+    border-color: #0676B9;
     fill: #fefefe;
     color: #fefefe
 }
 
 .CircularButton:focus {
-    background-color: #009688;
-    border-color: #009688;
-    box-shadow: 0 0 0 3px #009688;
-    color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
+    box-shadow: 0 0 0 3px #0676B9;
+    color: #0676B9;
     fill: #e2e2e2;
     outline: 0
 }
@@ -2189,7 +2189,7 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 
 .ButtonSelect.is-dropdownVisible .ButtonSelect-downIcon,
 .ButtonSelect.is-dropdownVisible:hover .ButtonSelect-downIcon {
-    fill: #009688
+    fill: #0676B9
 }
 
 .FeedBlockStory-actionsDropdownIcon {
@@ -2202,7 +2202,7 @@ textarea:hover:not(.override-hover-border):not([disabled]) {
 
 .textInput:focus {
     box-shadow: none;
-    border-color: #009688;
+    border-color: #0676B9;
 }
 
 .textInput::placeholder {
@@ -2243,7 +2243,7 @@ textarea.showing:focus:not(.override-focus-border) {
 
 .FeedBlockStory-actionsDropdownIcon.is-dropdownVisible,
 .FeedBlockStory-actionsDropdownIcon:hover {
-    fill: #009688;
+    fill: #0676B9;
     visibility: visible
 }
 
@@ -2337,11 +2337,11 @@ textarea.showing:focus:not(.override-focus-border) {
 }
 
 .buttonView.buttonView--secondary:not(.is-disabled):hover {
-    background-color: #009688;
-    border-color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
     border-style: solid;
     color: #fefefe;
-    fill: #009688
+    fill: #0676B9
 }
 
 .MultiTaskTitleRow-titleText {
@@ -2381,7 +2381,7 @@ textarea.showing:focus:not(.override-focus-border) {
 }
 
 a {
-    color: #009688;
+    color: #0676B9;
     text-decoration: none
 }
 
@@ -2394,7 +2394,7 @@ a {
 .DatePicker-addDueTime,
 .DatePicker-addRecurrence,
 .DatePicker-addDateRange {
-    color: #009688
+    color: #0676B9
 }
 
 .Popover--light>.Popover-body {
@@ -2416,17 +2416,17 @@ a {
 }
 
 .DatePickerCalendarDate--oneDaySelection.DatePickerCalendarDate--showSelectionBackground .DatePickerCalendarDate-selectionBackground {
-    background: #009688
+    background: #0676B9
 }
 
 .DatePickerCalendarDate--today {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe;
     font-weight: 900
 }
 
 .DatePickerCalendarDate--today .DatePickerCalendarDate-button::after {
-    background: #009688
+    background: #0676B9
 }
 
 .react-mount-node .DatePicker,
@@ -2441,7 +2441,7 @@ a {
 }
 
 .AssigneeToken-doNotDisturbIcon {
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .AssigneeToken-multiAssignButton {
@@ -2455,7 +2455,7 @@ a {
 }
 
 .Topbar-navButton:hover {
-    background: #009688;
+    background: #0676B9;
     fill: #212121
 }
 
@@ -2475,7 +2475,7 @@ a:hover {
 }
 
 .TaskGroupHeader--collapsible .TaskGroupHeader-content:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .dialog2 {
@@ -2495,7 +2495,7 @@ a:hover {
 }
 
 .tab.selected {
-    box-shadow: inset 0 -3px #009688;
+    box-shadow: inset 0 -3px #0676B9;
     color: #e2e2e2
 }
 
@@ -2504,7 +2504,7 @@ a:hover {
 }
 
 a.tabView-tabName:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .TeamRow-members,
@@ -2533,7 +2533,7 @@ textarea.showing {
 
 .TeamList-header {
     font-weight: 700;
-    color: #009688
+    color: #0676B9
 }
 
 .buttonSelectView-button {
@@ -2548,33 +2548,33 @@ textarea.showing {
 
 .buttonView.buttonView--secondary {
     background: #212121;
-    border-color: #009688;
+    border-color: #0676B9;
     color: #e2e2e2;
-    fill: #009688
+    fill: #0676B9
 }
 
 .buttonView.buttonView--secondary:focus,
 .buttonView.buttonView--secondary:hover {
     border-color: transparent;
-    box-shadow: inset 0 0 transparent, 0 0 0 3px #009688;
+    box-shadow: inset 0 0 transparent, 0 0 0 3px #0676B9;
     color: #e2e2e2;
-    fill: #009688;
-    background: #009688
+    fill: #0676B9;
+    background: #0676B9
 }
 
 .dropdown .dropdown-menu .item.hovered:not(.disabled),
 .dropdown .dropdown-menu .item:hover:not(.disabled),
 .dropdown .dropdown-menu .menu-item.hovered:not(.disabled),
 .dropdown .dropdown-menu .menu-item:hover:not(.disabled) {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #e2e2e2
 }
 
 .TeamRow-editLink:focus,
 .TeamRow-editLink:hover {
-    border-bottom: 1px solid #009688;
-    color: #009688;
-    fill: #009688
+    border-bottom: 1px solid #0676B9;
+    color: #0676B9;
+    fill: #0676B9
 }
 
 #cal_container {
@@ -2600,7 +2600,7 @@ textarea.showing {
 }
 
 .RemoveButton {
-    background: #009688;
+    background: #0676B9;
     fill: #e2e2e2
 }
 
@@ -2620,7 +2620,7 @@ textarea.showing {
 }
 
 .dialog--nux-content .title {
-    color: #009688;
+    color: #0676B9;
     font-size: 36px;
     font-weight: 400
 }
@@ -2635,14 +2635,14 @@ textarea.showing {
 }
 
 .buttonView.buttonView--primary {
-    background: #009688;
-    border-color: #009688;
+    background: #0676B9;
+    border-color: #0676B9;
     color: #e2e2e2
 }
 
 .buttonView.buttonView--primary:focus,
 .buttonView.buttonView--primary:hover {
-    background: #009688;
+    background: #0676B9;
     border-color: #80cbc4;
     box-shadow: inset 0 0 transparent, 0 0 0 1px #80cbc4
 }
@@ -2929,12 +2929,12 @@ textarea.showing {
 }
 
 .CustomPropertyProjectSettingsDialogContent-addFieldButton {
-    color: #009688;
+    color: #0676B9;
     fill: #e2e2e2
 }
 
 .CustomPropertyProjectSettingsDialogContent-addFieldButtonIcon {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .PotColorPicker-setForEveryone,
@@ -2975,9 +2975,9 @@ textarea.showing {
 .Assignee:not(.Assignee--isDisabled).Assignee--unassigned:hover {
     background-color: #e2e2e2;
     border-color: #e2e2e2;
-    box-shadow: 0 0 0 3px #009688;
-    color: #009688;
-    fill: #009688
+    box-shadow: 0 0 0 3px #0676B9;
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .ItemRow--enabled.ItemRow--focused,
@@ -3007,7 +3007,7 @@ textarea.showing {
 .inbox .inbox-thread-wrapper .project-footer .show-more-link,
 .inbox .inbox-thread-wrapper .task-footer .show-more-link,
 .inbox .inbox-thread-wrapper .task-header .show-more-link {
-    color: #009688;
+    color: #0676B9;
     font-weight: 600
 }
 
@@ -3062,7 +3062,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .TaskRow-detailsCaret:hover {
-    fill: #009688
+    fill: #0676B9
 }
 
 .ProjectMembersDialogContent-footer,
@@ -3099,7 +3099,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .TaskAttachments-uploadProgressPercentage {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .SuccessToast {
@@ -3109,11 +3109,11 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .TipToast,
 .TipToast-titleContainer {
-    color: #009688
+    color: #0676B9
 }
 
 .SuccessToast::before {
-    background-color: #009688;
+    background-color: #0676B9;
     background-image: none
 }
 
@@ -3178,7 +3178,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .ScheduleStatus .ScheduleStatus-newScheduleIcon {
-    background: #009688
+    background: #0676B9
 }
 
 .ScheduleStatus .ScheduleStatus-newScheduleIcon:hover {
@@ -3197,7 +3197,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .attachment-card-attachment-link,
 .hover-no-change-attachment-card-attachment-link {
-    color: #009688;
+    color: #0676B9;
     font-size: 13px;
     font-weight: 600
 }
@@ -3224,16 +3224,16 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .ProjectMembersPrivacyForm-privacyToggleButton:hover,
 .ProjectMembersSummary-addButton:focus,
 .ProjectMembersSummary-addButton:hover {
-    border-bottom: 1px solid #009688;
-    color: #009688;
-    fill: #009688;
+    border-bottom: 1px solid #0676B9;
+    color: #0676B9;
+    fill: #0676B9;
     text-decoration: none
 }
 
 .miniHeartButtonView--withThumbsUp:hover:not(.is-hearted),
 .topbarHelpMenuButton-textButton:hover {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 ::-webkit-scrollbar {
@@ -3250,7 +3250,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
     -webkit-border-radius: 1px;
     border-radius: 1px;
     background: 0 0;
-    -webkit-box-shadow: inset 0 0 1px #00968850
+    -webkit-box-shadow: inset 0 0 1px #0676B950
 }
 
 ::-webkit-scrollbar-thumb:window-inactive {
@@ -3271,14 +3271,14 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .itemListInboxThreadView-listName:hover {
-    color: #009688;
+    color: #0676B9;
     text-decoration: none
 }
 
 .inboxToolbar .inbox-email-settings-menu:hover {
-    border-bottom: 1px solid #009688;
-    color: #009688;
-    fill: #009688;
+    border-bottom: 1px solid #0676B9;
+    color: #0676B9;
+    fill: #0676B9;
     text-decoration: none
 }
 
@@ -3320,7 +3320,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
     transition-duration: .1s;
     -webkit-transition-property: background, border, box-shadow, color;
     transition-property: background, border, box-shadow, color;
-    background: #009688
+    background: #0676B9
 }
 
 .ConversationsPlaceholder-avatar {
@@ -3523,18 +3523,18 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .Tab-selectableTab.Tab-selectableTab--isSelected {
-    box-shadow: inset 0 -2px #009688;
-    color: #009688;
+    box-shadow: inset 0 -2px #0676B9;
+    color: #0676B9;
 }
 
 .Tab-selectableTab:hover,
 .Tab-selectableTab.Tab-selectableTab--isActive {
-    box-shadow: inset 0 -2px #009688;
-    color: #009688;
+    box-shadow: inset 0 -2px #0676B9;
+    color: #0676B9;
 }
 
 .CustomScrollbarContainer-thumb {
-    background-color: #009688;
+    background-color: #0676B9;
     border-radius: 25px;
     position: absolute;
     width: 2px
@@ -3559,8 +3559,8 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .Topbar-myDashboardButton:hover:not(.is-loading),
 .Topbar-myTasksButton:hover:not(.is-loading),
 .Topbar-notificationsButton:hover:not(.is-loading) {
-    color: #009688;
-    border-bottom: 1px solid #009688
+    color: #0676B9;
+    border-bottom: 1px solid #0676B9
 }
 
 .BoardCard {
@@ -3575,9 +3575,9 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .BoardCard.BoardCard--isSelected {
-    background-color: #00968830;
-    border-color: #00968850;
-    box-shadow: 0 1px 1px 2px #00968830
+    background-color: #0676B930;
+    border-color: #0676B950;
+    box-shadow: 0 1px 1px 2px #0676B930
 }
 
 .DueDate,
@@ -3588,9 +3588,9 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .BoardBody-descriptionLink:focus,
 .BoardBody-descriptionLink:hover {
-    border-bottom: 1px solid #009688;
-    color: #009688;
-    fill: #009688;
+    border-bottom: 1px solid #0676B9;
+    color: #0676B9;
+    fill: #0676B9;
     text-decoration: none
 }
 
@@ -3609,10 +3609,10 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .CardButton:focus:not(.CardButton--disabled),
 .CardButton:hover:not(.CardButton--disabled) {
-    box-shadow: 0 0 0 2px #009688;
+    box-shadow: 0 0 0 2px #0676B9;
     color: #e2e2e2;
-    fill: #009688;
-    background-color: #009688
+    fill: #0676B9;
+    background-color: #0676B9
 }
 
 .CardButton:active:not(.CardButton--disabled) {
@@ -3640,7 +3640,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .KeyboardShortcutsModal-headerTitle {
-    color: #009688
+    color: #0676B9
 }
 
 .KeyboardShortcutsModal-row {
@@ -3654,7 +3654,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .KeyboardShortcutsModal-sectionHeader {
-    color: #009688;
+    color: #0676B9;
     padding-top: 15px
 }
 
@@ -3676,11 +3676,11 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .Tokenizer.is-focused .TaskFollowers--following {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .Token .Token--colorNone .Tokenizer-token .Token--withavatar {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #e2e2e2
 }
 
@@ -3691,8 +3691,8 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .tokenView:not(.has-potColor):hover {
-    background: #009688;
-    border-color: #009688;
+    background: #0676B9;
+    border-color: #0676B9;
     color: #fefefe
 }
 
@@ -3708,7 +3708,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .dropdown .typeahead-dropdown-contents .item:hover:not(.disabled):not(.selectable),
 .dropdown .typeahead-dropdown-contents .menu-item.selected,
 .dropdown .typeahead-dropdown-contents .menu-item:hover:not(.disabled):not(.selectable) {
-    background-color: #009688;
+    background-color: #0676B9;
     border-color: #42424270
 }
 
@@ -3726,7 +3726,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .referencedTaskRowView-comments:hover {
     color: #f2f2f2;
     fill: #f2f2f2;
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .miniHeartButtonView--withThumbsUp:hover:not(.is-hearted) {
@@ -3761,7 +3761,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .notificationView-iconAvatar {
-    background: #009688;
+    background: #0676B9;
     fill: #fefefe
 }
 
@@ -3771,7 +3771,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .BoardCardWithCustomProperties.BoardCardWithCustomProperties--isSelected {
     background-color: #424242;
-    border-color: #009688
+    border-color: #0676B9
 }
 
 .SingleTaskPaneModal {
@@ -3792,7 +3792,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .CustomPropertyContainerSettingsFieldTypeButton.CustomPropertyContainerSettingsFieldTypeButton--isSelected {
-    border: 1px solid #009688;
+    border: 1px solid #0676B9;
     background-color: #303030
 }
 
@@ -3807,7 +3807,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .CustomPropertyProtoCreateRow.CustomPropertyProtoCreateRow--highlighted,
 .CustomPropertyProtoTypeaheadItem.CustomPropertyProtoTypeaheadItem--highlighted {
-    background: #009688
+    background: #0676B9
 }
 
 .ProjectMembersShareForm {
@@ -3824,7 +3824,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .ProjectMembersDialogRow--highlighted {
-    background-color: #00968850
+    background-color: #0676B950
 }
 
 .Tokenizer {
@@ -3916,14 +3916,14 @@ strong {
 }
 
 .HeartButton-heartCount {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe;
     font-weight: 700
 }
 
 .HeartButton-button.IconToggleButton--toggledOff .IconButton--enabled:focus,
 .HeartButton-button.IconToggleButton--toggledOff .IconButton--enabled:hover {
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .SingleTaskPanePlaceholder-toolbar,
@@ -4140,7 +4140,7 @@ strong {
 }
 
 .dropdown-menu-link.open .buttonSelectView-button {
-    background-color: #009688;
+    background-color: #0676B9;
     border-color: #303030;
     color: #fefefe;
     fill: #fefefe
@@ -4161,8 +4161,8 @@ strong {
 .buttonView.buttonView--toggle.buttonView--secondary:active,
 .buttonView.buttonView--toggle.is-active,
 .buttonView.buttonView--toggle:active {
-    background-color: #009688;
-    border-color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
     color: #fefefe;
     fill: #fefefe
 }
@@ -4207,7 +4207,7 @@ strong {
 }
 
 .TopbarSearchSectionToggleItem--highlighted {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .TopbarSearchAdvancedSearchItem {
@@ -4222,7 +4222,7 @@ strong {
 }
 
 .TopbarSearchAdvancedSearchItem--highlighted {
-    background: #009688;
+    background: #0676B9;
     color: #fefefe
 }
 
@@ -4321,7 +4321,7 @@ strong {
 }
 
 .TextEditorToolbarButton-anchor--isToggledOn {
-    fill: #009688
+    fill: #0676B9
 }
 
 .TextEditorToolbarButton-anchor {
@@ -4329,7 +4329,7 @@ strong {
 }
 
 .ScheduleStatus .ScheduleStatus-upcomingScheduleIcon:hover {
-    border: 2px solid #009688
+    border: 2px solid #0676B9
 }
 
 .CustomPropertyTextEditablePreviewCell .textInput {
@@ -4355,7 +4355,7 @@ strong {
 .Topbar-notificationsButton:not(.is-loading).has-newNotifications::after {
     background: #174642;
     border: 1px solid #174642;
-    border-left: 3px solid #009688;
+    border-left: 3px solid #0676B9;
 }
 
 .CustomScrollbarContainer-content,
@@ -4365,7 +4365,7 @@ strong {
 }
 
 .SidebarCollapsibleHeader--withoutClarifiedNavigation .SidebarCollapsibleHeader-name {
-    color: #009688
+    color: #0676B9
 }
 
 .SidebarReports--withoutClarifiedNavigation {
@@ -4488,7 +4488,7 @@ strong {
 }
 
 .FollowersList-placeholderAvatar.DomainUserAvatar:not(.DomainUserAvatar--isDisabled).DomainUserAvatar--noValue:hover {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe70;
     fill: #fefefe70;
     border-color: #fefefe70
@@ -4551,8 +4551,8 @@ strong {
 .ConversationBody-titleLink:hover,
 .ConversationBody-titleLink:focus,
 .ConversationBody-authorLink:hover {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .SearchConversationRow:not(.SearchConversationRow--borderless)::after {
@@ -4595,7 +4595,7 @@ strong {
 }
 
 .notificationView-blockStoryLink:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .Drawer {
@@ -4611,7 +4611,7 @@ strong {
 .BlockStory-actorLink:visited,
 .react-mount-node .BlockStory-actorLink,
 .react-mount-node .TaskCompletedBlockStory .BlockStory-actorLink:hover {
-    color: #009688 !important
+    color: #0676B9 !important
 }
 
 .BlockStory-actorLink:link,
@@ -4638,7 +4638,7 @@ strong {
 }
 
 .HubSection-title {
-    color: #009688
+    color: #0676B9
 }
 
 .TileStructure:focus,
@@ -4677,7 +4677,7 @@ strong {
 .Topbar-notificationsButton.is-selected,
 .blockStoryView-actorLink,
 .tab-nav-div .tab-nav-bar .tab-nav-button:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .TemplateGalleryRow::after {
@@ -4735,12 +4735,12 @@ strong {
 }
 
 .CustomPropertyHeader-fieldHeading--highlighted .CustomPropertyHeader-fieldName {
-    color: #009688;
+    color: #0676B9;
     font-weight: 700
 }
 
 .CustomPropertyHeader-fieldName:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .MenuAnchor--normal,
@@ -4769,7 +4769,7 @@ strong {
 .HomeTasksForTodaySection-myTasksLink,
 .HomeTasksForTodaySection-myTasksLink:focus,
 .HomeTasksForTodaySection-myTasksLink:hover {
-    color: #009688
+    color: #0676B9
 }
 
 .taskCheckboxNodeView--withoutEmptyCheckCircleExperiment.circularToggleButtonView--toggledOff .circularToggleButtonView-button {
@@ -4783,22 +4783,22 @@ strong {
 }
 
 div.tooltip-body {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .TabButton.TabButton--isSelected {
-    box-shadow: inset 0 -2px #009688;
-    color: #009688
+    box-shadow: inset 0 -2px #0676B9;
+    color: #0676B9
 }
 
 .TabButton.TabButton--isActive,
 .TabButton.TabButton--isHoverable:hover {
-    box-shadow: inset 0 -2px #009688;
+    box-shadow: inset 0 -2px #0676B9;
     color: #fefefe
 }
 
 .inboxThreadView-archiveButton:hover {
-    background: #009688;
+    background: #0676B9;
     fill: #fefefe
 }
 
@@ -4834,13 +4834,13 @@ div.tooltip-body {
 .CustomPropertyContainerSettingsAddFieldsLink-addFieldLink,
 .CustomPropertyContainerSettingsAddFieldsLink-addFieldLink:focus,
 .CustomPropertyContainerSettingsAddFieldsLink-addFieldLink:hover {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .CustomPropertyContainerSettingsAddFieldsLink-addFieldLink:hover .CustomPropertyContainerSettingsAddFieldsLink-addFieldLinkIcon,
 .CustomPropertyContainerSettingsAddFieldsLink-addFieldLinkIcon {
-    background-color: #009688
+    background-color: #0676B9
 }
 
 .ItemRow--enabled:hover,
@@ -4861,7 +4861,7 @@ div.tooltip-body {
 }
 
 .PotTypeaheadItem.PotTypeaheadItem--highlighted {
-    background: #009688
+    background: #0676B9
 }
 
 .PageToolbarStructure--withShadow {
@@ -4871,7 +4871,7 @@ div.tooltip-body {
 
 .MenuAnchor--normal.MenuAnchor--isMenuOpen,
 .MenuAnchor--normal:hover {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe
 }
 
@@ -4886,7 +4886,7 @@ div.tooltip-body {
 
 .FormElementButton.FormElementButton--standard:not(.FormElementButton--disabled):focus,
 .FormElementButton.FormElementButton--standard:not(.FormElementButton--disabled):hover {
-    background-color: #009688;
+    background-color: #0676B9;
 }
 
 .FormElementButton {
@@ -4935,7 +4935,7 @@ div.tooltip-body {
 
 .AdminConsoleTeamsListHeader-cell--name,
 .AdminConsoleTeamsListHeader-cell--members {
-    color: #009688;
+    color: #0676B9;
 }
 
 .AdminConsoleMembersList-containerInfoBar {
@@ -4991,13 +4991,13 @@ div.tooltip-body {
 }
 
 .CustomPropertyHeader-addFieldLink {
-    color: #009688
+    color: #0676B9
 }
 
 .MenuAnchor--normal.MenuAnchor--isOptionActive {
     color: #fefefe;
     fill: #fefefe;
-    background-color: #009688;
+    background-color: #0676B9;
 }
 
 .SingleTaskPanePlaceholder-buttonContent {
@@ -5013,8 +5013,8 @@ div.tooltip-body {
 .AttachmentCard--validLink:active,
 .AttachmentCard--validLink:focus,
 .AttachmentCard--validLink:hover {
-    background-color: #009688;
-    border: 1px solid #00968850
+    background-color: #0676B9;
+    border: 1px solid #0676B950
 }
 
 .AttachmentCard-metaData {
@@ -5084,8 +5084,8 @@ div.tooltip-body {
 }
 
 .AdminConsoleOptionRow-right {
-    color: #009688;
-    fill: #009688
+    color: #0676B9;
+    fill: #0676B9
 }
 
 .AdminConsolePageStructure-title,
@@ -5147,18 +5147,18 @@ div.tooltip-body {
 }
 
 .StatusUpdateHeaderWidget-addStatusPrompt:hover .StatusUpdateHeaderWidget-addStatusPromptText {
-    color: #009688;
+    color: #0676B9;
 }
 
 .MenuAnchor:hover,
 .MenuAnchor.MenuAnchor--isMenuOpen {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe
 }
 
 .MenuAnchor--default:hover,
 .MenuAnchor--default:focus {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe;
     fill: #fefefe
 }
@@ -5202,7 +5202,7 @@ div.tooltip-body {
 }
 
 .FieldMenuItem:hover {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe;
 }
 
@@ -5220,7 +5220,7 @@ div.tooltip-body {
 }
 
 .Switch.Switch--checked {
-    background: #009688;
+    background: #0676B9;
     border: none
 }
 
@@ -5250,14 +5250,14 @@ div.tooltip-body {
 
 .TaskAddedToPotInboxThread-title:hover,
 .TaskAddedToPotInboxThread-title:focus {
-    color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    fill: #0676B9;
 }
 
 .MiniStory-actor:hover,
 .MiniStory-actor:focus {
-    color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    fill: #0676B9;
     font-weight: 900;
 }
 
@@ -5267,7 +5267,7 @@ div.tooltip-body {
 }
 
 .Hovercard-role {
-    color: #009688;
+    color: #0676B9;
 }
 
 .Hovercard-aboutMe {
@@ -5275,8 +5275,8 @@ div.tooltip-body {
 }
 
 .ItemLikedBlockStory-actorLink {
-    color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    fill: #0676B9;
     font-weight: 700;
 }
 
@@ -5361,12 +5361,12 @@ div.tooltip-body {
 }
 
 .SpreadsheetAssigneeCell-cell.SpreadsheetAssigneeCell-cell--isAssigneePopoverVisible {
-    border-color: #009688;
+    border-color: #0676B9;
 }
 
 .DomainUserAvatar:not(.DomainUserAvatar--isDisabled).DomainUserAvatar--noValue:hover {
-    background-color: #009688;
-    border-color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
     fill: #fefefe;
     color: #fefefe;
 }
@@ -5411,7 +5411,7 @@ div.tooltip-body {
 
 .SpreadsheetCell.SpreadsheetCell--isHighlighted:focus-within,
 .SpreadsheetCell.SpreadsheetCell--isHighlighted:focus {
-    border-color: #009688;
+    border-color: #0676B9;
 }
 
 .AssigneeWithName-name,
@@ -5435,8 +5435,8 @@ div.tooltip-body {
 }
 
 .CountWithIcon--clickable:hover {
-    color: #009688;
-    fill: #009688;
+    color: #0676B9;
+    fill: #0676B9;
 }
 
 .SpreadsheetItemListEmptyCells-nameCell {
@@ -5451,7 +5451,7 @@ div.tooltip-body {
 }
 
 .NotificationTopBar--info {
-    background: #00968875;
+    background: #0676B975;
 }
 
 .NotificationTopBar--info .NotificationTopBar-titleAndDescription {
@@ -5497,9 +5497,9 @@ div.tooltip-body {
 }
 
 .DueDateContainer.DueDateContainer--isPopoverVisible .DueDateContainer-button.DueDateContainer-button--circular {
-    background-color: #009688;
-    border: 1px solid #009688;
-    box-shadow: inset 0 1px #009688;
+    background-color: #0676B9;
+    border: 1px solid #0676B9;
+    box-shadow: inset 0 1px #0676B9;
     color: #fefefe;
     fill: #fefefe;
 }
@@ -5508,7 +5508,7 @@ div.tooltip-body {
 .MenuItemBase--disabled:hover {
     background: #303030;
     color: #fefefe;
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .BoardColumnWithNonsortableTasks-scrollableContainer::before {
@@ -5568,7 +5568,7 @@ div.tooltip-body {
 }
 
 .TaskTimelineCanvas-todayStripe {
-    background: #009688;
+    background: #0676B9;
 }
 
 .TimelineGroupWithNamesSidebar-name {
@@ -5580,7 +5580,7 @@ div.tooltip-body {
 }
 
 .DraggableTimelineItemResizeHandle.DraggableTimelineItemResizeHandle--colorNone {
-    background: #009688
+    background: #0676B9
 }
 
 .TimelineCanvasPlaceholder-task {
@@ -5680,7 +5680,7 @@ div.tooltip-body {
 
 .AutomationDialogPresetSidebarItem--selected,
 .AutomationDialogPresetSidebarItem:hover {
-    color: #009688;
+    color: #0676B9;
 }
 
 .AutomationDialogPresetGallery-sidebar {
@@ -5696,24 +5696,24 @@ div.tooltip-body {
 }
 
 .AutomationDialogPresetCardStructure:hover {
-    border-color: #009688;
+    border-color: #0676B9;
     background-color: #424242
 }
 
 .AutomationDialogPresetCard:hover .AutomationDialogPresetCard-addLink {
-    color: #009688;
+    color: #0676B9;
     font-weight: bold
 }
 
 .AutomationDialogCustomRuleCard {
     border: 2px dashed #424242;
     color: #fefefe;
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .AutomationDialogCustomRuleCard:hover {
-    background-color: #009688;
-    border-color: #009688;
+    background-color: #0676B9;
+    border-color: #0676B9;
     color: #fefefe;
     fill: #fefefe
 }
@@ -5736,7 +5736,7 @@ div.tooltip-body {
 }
 
 .BoardAddCardForm {
-    background: #00968850;
+    background: #0676B950;
 }
 
 .BoardCardNameInput-autogrowTextarea--small .autogrowTextarea-input,
@@ -5778,13 +5778,13 @@ div.tooltip-body {
 
 .FeatureStageIndicator-feedbackLink--withoutType:hover,
 .FeatureStageIndicator-feedbackLink--withoutType:focus {
-    color: #009688;
-    fill: #009688;
-    border-bottom: 1px solid #009688;
+    color: #0676B9;
+    fill: #0676B9;
+    border-bottom: 1px solid #0676B9;
 }
 
 .MenuAnchor--isOptionActive {
-    background-color: #009688;
+    background-color: #0676B9;
     color: #fefefe;
     font-weight: 700;
 }
@@ -5798,7 +5798,7 @@ div.tooltip-body {
 .react-mount-node .taskRowCompletionStatus-checkbox.taskRowCompletionStatus-checkbox--incomplete:hover,
 .taskCheckboxNodeView.circularToggleButtonView--toggledOff .circularToggleButtonView-button:hover,
 taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleButtonView-button {
-    background-color: #009688;
+    background-color: #0676B9;
 }
 
 .TaskRowCompletionStatus-checkbox.TaskRowCompletionStatus-checkbox--complete,
@@ -5810,7 +5810,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .react-mount-node .taskRowCompletionStatus-checkbox.taskRowCompletionStatus-checkbox--incomplete:hover,
 .taskCheckboxNodeView.circularToggleButtonView--toggledOff .circularToggleButtonView-button:hover,
 taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleButtonView-button {
-    background: #009688;
+    background: #0676B9;
     box-shadow: none;
     border-color: #42424270;
     fill: #fefefe;
@@ -5819,14 +5819,14 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .TaskRowCompletionStatus-checkbox.TaskRowCompletionStatus-checkbox--incomplete:hover,
 .TaskRowCompletionStatus-checkbox.TaskRowCompletionStatus-checkbox--incomplete:not(.TaskRowCompletionStatus-checkbox--disabled):hover {
-    background: #009688;
-    border-color: #009688;
+    background: #0676B9;
+    border-color: #0676B9;
 }
 
 .TaskRowCompletionStatus-checkbox--withSpreadsheetGridEnabled.TaskRowCompletionStatus-checkbox--complete:not(.TaskRowCompletionStatus-checkbox--disabled):hover {
-    background: #00968875;
+    background: #0676B975;
     box-shadow: none;
-    border-color: #00968875;
+    border-color: #0676B975;
     fill: #fefefe;
     color: #fefefe
 }
@@ -5873,7 +5873,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .NonEditingTitle:hover {
-    background-color: #00968850;
+    background-color: #0676B950;
     box-shadow: none;
 }
 
@@ -5887,7 +5887,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .NonEditingFormField:hover {
-    background-color: #009688;
+    background-color: #0676B9;
 }
 
 .CreateFormEntryPoint-container {
@@ -5927,7 +5927,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .ProjectCalendarDay.CalendarDay.CalendarDay--today .CalendarDay-dayHeader {
-    color: #009688;
+    color: #0676B9;
     font-weight: 900 !important
 }
 
@@ -5940,7 +5940,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .AutomationMenuContents-addRule:hover {
-    background-color: #009688;
+    background-color: #0676B9;
 }
 
 .BoardColumnWithSortableTasks-sortableList::before {
@@ -5970,8 +5970,8 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .TeamSettingsDialogListRowLink:hover,
 .TeamSettingsDialogListRowLink:focus {
-    color: #009688;
-    border-bottom: 1px solid #009688
+    color: #0676B9;
+    border-bottom: 1px solid #0676B9
 }
 
 .TeamOverviewProjectRowDetailed--isMenuOpen .PotRow {
@@ -6025,9 +6025,9 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 .TaskAddedToPotInboxThreadFooter-toggleFollowButton--isFollowing .TaskAddedToPotInboxThreadFooter-toggleFollowLink:focus,
 .InboxThreadFooter-toggleFollowButton--isFollowing .InboxThreadFooter-toggleFollowLink:hover,
 .InboxThreadFooter-toggleFollowButton--isFollowing .InboxThreadFooter-toggleFollowLink:focus {
-    border-color: #009688;
-    color: #009688;
-    fill: #009688;
+    border-color: #0676B9;
+    color: #0676B9;
+    fill: #0676B9;
 }
 
 .AssigneeToken--spreadsheetTaskPane .AssigneeToken-userNameLabel {
@@ -6082,8 +6082,8 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 
 .TokenButton.TokenButton--interactive:hover,
 .TokenButton.TokenButton--interactive:focus {
-    background-color: #00968850;
-    border-color: #00968850;
+    background-color: #0676B950;
+    border-color: #0676B950;
     color: #273240;
     fill: #fefefe;
     cursor: pointer;
@@ -6146,7 +6146,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .TaskDueDateToken-tokenButton .DueDate--future {
-    color: #009688;
+    color: #0676B9;
 }
 
 .AttachmentMetadataBar {
@@ -6181,12 +6181,12 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .SpreadsheetCell.SpreadsheetCell--overrideBlueBorderToAlwaysVisible {
-    border-color: #009688;
+    border-color: #0676B9;
 }
 
 .ComposerAttachmentsPile-attachmentCardContainer:hover .AttachmentCard--validLink {
-    background: #009688;
-    border-color: #009688;
+    background: #0676B9;
+    border-color: #0676B9;
 }
 
 .RichAttachment-labelLink:hover,
@@ -6218,10 +6218,10 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .LinkOverlay {
-    border-color: #009688;
-    background: #009688;
+    border-color: #0676B9;
+    background: #0676B9;
     color: #fefefe;
-    box-shadow: 1px 1px 1px 1px #009688
+    box-shadow: 1px 1px 1px 1px #0676B9
 }
 
 .LinkOverlay a,
@@ -6232,7 +6232,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .LinkButton {
-    color: #009688;
+    color: #0676B9;
 }
 
 .LinkButton:hover,
@@ -6242,7 +6242,7 @@ taskCheckboxNodeView:hover.circularToggleButtonView--toggledOff .circularToggleB
 }
 
 .EmailNotificationsSettingsContent-aboutNotificationsIcon {
-    fill: #009688;
+    fill: #0676B9;
 }
 
 .textInput[disabled] {
